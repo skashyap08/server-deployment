@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/skashyap08/server-deployment/issues"
   },
-  "homepage": "https://github.com/skashyap08/server-deployment#readme"
+  "homepage": "https://github.com/skashyap08/server-deployment#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
